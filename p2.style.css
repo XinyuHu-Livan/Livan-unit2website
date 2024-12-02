@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: #5fa6ef;
+    position: relative; 
+    
+}
+img {
+position: absolute;
+bottom: -100px;
+right: 400px;; 
+}
+.gif {
+    position: absolute;
+    width: 600px; 
+    height: 600px;
+    cursor: pointer;
+}
